@@ -1,5 +1,5 @@
 # Documentation
-This Readme will guide you on how to provision a minikube kubernetes cluster on windows machine and deploy the myapp application.
+This Readme will guide you on how to provision a minikube kubernetes cluster and deploy the myapp application.
 
 # Kuberetes Cluster Setup
 minikube is used to provision the kubernetes cluster locally. Use the below official link for the steps to create a cluster.
